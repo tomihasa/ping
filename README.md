@@ -31,4 +31,4 @@ If you have something quick and easy, just ping us on Twitter. 140 characters ma
 Join us on the #goshow channel on Gophers Slack (invite: http://bit.ly/gophers-slack-invite)
 
 ---
-Special thanks to [Holman](https://github.com/holman/feedback) and [The ChangeLog](https://github.com/thechangelog/ping) for leading the way.
+Special thanks to [Holman](https://github.com/holman/feedback) and [The Changelog](https://github.com/thechangelog/ping) for leading the way.
