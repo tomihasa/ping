@@ -6,7 +6,7 @@ Make suggestions for The Go Show podcast and newsletter.
 
 ## Get in touch
 
-Getting in touch is as easy as [creating a new issue](https://github.com/gowshow/ping/issues/new).
+Getting in touch is as easy as [creating a new issue](https://github.com/goshowfm/ping/issues/new).
 
 Use it to share your projects, news, or feedback. You can also pitch us on a guest for the podcast (and it can be you!)
 
@@ -16,7 +16,7 @@ We'll try to answer you as soon as we can get to it. Once we've answered, we'll 
 
 ## Browse previous conversations
 
-[Check out the closed issues filter](https://github.com/gowshow/ping/issues?sort=created&directionÞsc&state=closed&page=1) to browse previous conversations we've had. We try to use this as an email replacement everyone can see, so feel free to dig into some of the older threads.
+[Check out the closed issues filter](https://github.com/goshowfm/ping/issues?sort=created&directionÞsc&state=closed&page=1) to browse previous conversations we've had. We try to use this as an email replacement everyone can see, so feel free to dig into some of the older threads.
 
 ---
 
