@@ -28,7 +28,7 @@ If you have something quick and easy, just ping us on Twitter. 140 characters ma
 
 
 ### Gophers Slack
-Join us on the #gotimefm channel on Gophers Slack (invite: http://bit.ly/gophers-slack-invite)
+Join us on the #gotimefm channel on Gophers Slack (invite: https://gophersinvite.herokuapp.com)
 
 ---
 Special thanks to [Holman](https://github.com/holman/feedback) and [The Changelog](https://github.com/thechangelog/ping) for leading the way.
